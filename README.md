@@ -1,4 +1,4 @@
-# restful-api-python-flask
+# restful-tokenizer-api-python-flask
 ### Build and run docker container with Flask RESTful API for interacting with NLP-IE tokenizer service
 
 Clone repo `git clone https://github.com/nlpie/restful-api-python-flask`
